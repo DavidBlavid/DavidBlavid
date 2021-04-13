@@ -1,4 +1,11 @@
-### Hi there 👋
+### Look upon my works, and laugh cause theyre really bad  
+
+🧮  https://davidblavid.github.io/SudokuSolver/   
+🐜  https://davidblavid.github.io/LangtonsAnt/   
+🎤  https://davidblavid.github.io/RaabOrBarth  
+
+
+If for any reason you poor soul would want to contact me, you can find my twitter in the bottom left corner
 
 <!--
 **DavidBlavid/DavidBlavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
