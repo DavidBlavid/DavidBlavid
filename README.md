@@ -1,4 +1,4 @@
-### oh, a visitor?
+## Oh, a visitor?
 If you want to get an overview of my projects, check out the following :)
 - 🗺️ An [interactive map](https://map.skynet.coypu.org/) built in python/dash
 - 🤖 A [RAG framework](https://github.com/DavidBlavid/NLP-QA-Retrieval) for answering questions using Wikipedia articles 
