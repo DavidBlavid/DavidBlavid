@@ -1,7 +1,7 @@
 ## Oh, a visitor?
 If you want to get an overview of my projects, check out the following :)
 - 🗺️ An [interactive map](https://map.skynet.coypu.org/) built in python/dash
-- 🤖 A [RAG framework](https://github.com/DavidBlavid/NLP-QA-Retrieval) for answering questions using Wikipedia articles 
+- 🤖 An [interactive demo](https://github.com/DavidBlavid/ShufflenetDemo) of the ShuffleNet image recognizer 
 - 📱 A [server, client and monitor](https://github.com/DavidBlavid/mobile-participation) for a party game you can host yourself and play on your phone
 - 📹 A [tool for backing up YouTube videos](https://github.com/DavidBlavid/YoutubeArchiver), and turning them into albums
 - 🔄️ A [tool for transcoding large amounts of video files](https://github.com/DavidBlavid/media-transcoder) into one format
