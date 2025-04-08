@@ -6,4 +6,6 @@ If you want to get an overview of my projects, check out the following :)
 - 📹 A [tool for backing up YouTube videos](https://github.com/DavidBlavid/YoutubeArchiver), and turning them into albums
 - 🔄️ A [tool for transcoding large amounts of video files](https://github.com/DavidBlavid/media-transcoder) into one format
 
-And [more](https://github.com/DavidBlavid?tab=repositories)! If you want to contact me, write me a mail at david.rath [at] studium.uni-hamburg.de
+And [more](https://github.com/DavidBlavid?tab=repositories)!
+
+If you want to contact me, write me a mail at david.rath [at] studium.uni-hamburg.de
