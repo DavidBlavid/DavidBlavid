@@ -1,23 +1,9 @@
-### Look upon my works, and laugh cause theyre really bad  
+### oh, a visitor?
+If you want to get an overview of my projects, check out the following :)
+- 🗺️ An [interactive map](https://map.skynet.coypu.org/) built in python/dash
+- 🤖 A [RAG framework](https://github.com/DavidBlavid/NLP-QA-Retrieval) for answering questions using Wikipedia articles 
+- 📱 A [server, client and monitor](https://github.com/DavidBlavid/mobile-participation) for a party game you can host yourself and play on your phone
+- 📹 A [tool for backing up YouTube videos](https://github.com/DavidBlavid/YoutubeArchiver), and turning them into albums
+- 🔄️ A [tool for transcoding large amounts of video files](https://github.com/DavidBlavid/media-transcoder) into one format
 
-🧮  https://davidblavid.github.io/SudokuSolver/   
-🐜  https://davidblavid.github.io/LangtonsAnt/   
-🎤  https://davidblavid.github.io/RaabOrBarth  
-
-
-If for any reason you poor soul would want to contact me, you can find my twitter in the bottom left corner
-
-<!--
-**DavidBlavid/DavidBlavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And [more](https://github.com/DavidBlavid?tab=repositories)! If you want to contact me, write me a mail at david.rath [at] studium.uni-hamburg.de
