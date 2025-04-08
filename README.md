@@ -8,4 +8,4 @@ If you want to get an overview of my projects, check out the following :)
 
 And [more](https://github.com/DavidBlavid?tab=repositories)!
 
-If you want to contact me, write me a mail at david.rath [at] studium.uni-hamburg.de
+📬 If you want to contact me, write me a mail at david.rath [at] studium.uni-hamburg.de.
